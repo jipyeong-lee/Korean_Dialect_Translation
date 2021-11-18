@@ -1,5 +1,5 @@
 # Korean Dialect Neural Machine Translation  
-The repo is a model that converts Korean into polite sentences.(using OpenNMT Transformer) 
+The repo is a model that converts Korean into dialect sentences.(using OpenNMT Transformer) 
 
 ## Getting Started
 
